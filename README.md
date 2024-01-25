@@ -1,23 +1,38 @@
 # FrameX DB MSSQL Design Pack (Frame-X DB MDP)
 
+FrameX DB MSSQL Design Pack - it's skeleton for working with mssql database
+
+# What is this project for?
+The project was created so that anyone can quickly start designing a database. 
+Working with this project reduces prep time and keeps your project clean.
 
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+# Structure project
+
+* src
+  + assemblies
+  + schemes
+  + dbo
+  + tests
+
+# Sample
+## Demo project
+[FrameX.DB.MSSQL.DesignPack.Sample](https://github.com/Frame-X/FrameX.DB.MSSQL.DesignPack.Sample)
+
+# How it works
+You need will do steps: 
+* You need clone git repo in your project
+* Add changes in connect string of database
+* Add your sql code
+* Execute script in your machine
 
 # Contribute
 TODO: Explain how other users and developers can contribute to make your code better. 
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+
+
+
+
