@@ -20,7 +20,7 @@ Working with this project reduces prep time and keeps your project clean.
 
 # Sample
 ## Demo project
-[M-Skeleton.Sample](https://github.com/Frame-X/FrameX.DB.MSSQL.DesignPack.Sample)
+[FrameX.DB.MSSQL.DesignPack.Sample](https://github.com/Frame-X/FrameX.DB.MSSQL.DesignPack.Sample)
 
 # How it works
 You need will do steps: 
